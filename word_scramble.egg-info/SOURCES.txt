@@ -1,0 +1,9 @@
+README.md
+setup.py
+word_scramble.egg-info/PKG-INFO
+word_scramble.egg-info/SOURCES.txt
+word_scramble.egg-info/dependency_links.txt
+word_scramble.egg-info/requires.txt
+word_scramble.egg-info/top_level.txt
+wsfinder/__init__.py
+wsfinder/main.py

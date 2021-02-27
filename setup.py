@@ -4,7 +4,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 setup(
     name="word-scramble",
-    version="1.0.0",
+    version="1.0.1",
     description="Python 3+ version scrabble word finder! Super efficient with hashtables!",
     long_description=README,
     long_description_content_type="text/markdown",
