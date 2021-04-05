@@ -1,4 +1,4 @@
-# Python basic data structures implementations
+# Python super efficient word scramble finder
 
 **word scramble** is a python package that looks for all possibilities given a scrambled word. 
 
