@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: word-scramble
-Version: 1.0.1
+Version: 1.1.0
 Summary: Python 3+ version scrabble word finder! Super efficient with hashtables!
 Home-page: https://github.com/Harvard90873/word-scramble
 Author: Harvard90873
 Author-email: harvard90873@gmail.com
 License: MIT
-Description: # Python basic data structures implementations
+Description: # Python super efficient word scramble finder
         
         **word scramble** is a python package that looks for all possibilities given a scrambled word. 
         
