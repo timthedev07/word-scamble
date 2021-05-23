@@ -8,8 +8,8 @@ setup(
     description="Python 3+ version scrabble word finder! Super efficient with hashtables!",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Harvard90873/word-scramble",
-    author="Harvard90873",
+    url="https://github.com/RelentlessExploration/word-scramble",
+    author="Tim",
     author_email="harvard90873@gmail.com",
     license="MIT",
     classifiers=[
